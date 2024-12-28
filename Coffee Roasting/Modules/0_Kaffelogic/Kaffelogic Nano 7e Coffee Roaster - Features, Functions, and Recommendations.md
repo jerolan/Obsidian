@@ -1,27 +1,75 @@
-## Summary
+### Introduction
 
-The Kaffelogic Nano 7e coffee roaster is a compact, innovative machine designed for home and professional use. It delivers high-quality, consistent roasts with minimal effort. Its features cater to beginners with pre-set profiles while allowing advanced users to customize their roasting processes. With a lightweight build and energy-efficient operation, the Nano 7e simplifies coffee roasting for everyone.
-
----
-
-## Key Points
-
-- **Compact Design**: Lightweight (4.4kg) and under 30cm tall, it is easy to store and transport.
-- **Wide Roasting Range**: Handles 90–120g of green coffee beans, expandable to 50–200g with a boost kit.
-- **Effortless Control**: Pre-set temperature curves, 60 roast levels, and automated operations make it user-friendly.
-- **Advanced Features**: Includes a precise bean temperature probe and customizable roasting profiles.
-- **Low Maintenance**: Minimal upkeep with an easy-to-clean chaff collector.
-- **Eco-Friendly**: Operates with low energy consumption and produces minimal smoke, making it suitable for indoor use.
+The Kaffelogic Nano 7e is a revolutionary coffee roaster designed for both enthusiasts and professionals. Combining compact design with advanced features, it enables anyone to achieve consistent, high-quality roasts effortlessly. This article explores the key features, functionalities, and recommendations for getting the most out of this versatile machine.
 
 ---
 
-## Reflections
+### Features of the Kaffelogic Nano 7e
 
-The Kaffelogic Nano 7e embodies modern coffee roasting innovation. Its simplicity and versatility make it a perfect choice for home users seeking convenience and professionals requiring precision. The machine fosters experimentation, empowering users to explore various roast levels and profiles. Its compact design and low maintenance needs further enhance its appeal, making it a valuable addition to any coffee enthusiast’s toolkit.
+#### 1. Compact and Lightweight
+
+- Weighs only 4.4kg, including the chaff collector.
+- Stands at under 30 cm tall, making it easy to store and transport.
+
+#### 2. Flexible Roasting Capacity
+
+- Default capacity: 90–120g of green coffee beans.
+- Expandable range: 50–200g using the optional boost kit.
+
+#### 3. Smoke Management
+
+- Produces minimal smoke, making it suitable for indoor use under a kitchen vent.
+
+#### 4. Energy-Efficient
+
+- Operates with power consumption comparable to a hair dryer, ensuring cost-effective roasting at home.
 
 ---
 
-## Resources
-- [[Coffee Roasting/Modules/0_Kaffelogic/Summaries/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations]]
-- https://www.youtube.com/watch?v=OuQ2xWIz0nw&list=PLHs4vaObyhIP3V4-5ptDUrD8Q4VkTuSwL&index=2
+### Functions and Controls
 
+#### Fully Automated System
+
+- Pre-set temperature curves ensure consistent roasting along a pre-designed profile.
+- Customizable options allow users to fine-tune profiles based on personal preferences.
+
+#### Simple User Interface
+
+- Five control buttons and a display screen handle all operations:
+    - **Profile Button**: Select roasting profiles.
+    - **Increase/Decrease Buttons**: Adjust roast degree or development time.
+    - **Start Button**: Initiates the roasting process.
+    - **Menu Button**: Access advanced settings.
+
+#### Advanced Temperature Control
+
+- Features a bean temperature probe for precise readings and adjustments, resulting in consistent and repeatable roasts.
+
+#### Built-in Profiles
+
+- Includes a variety of pre-set profiles for light, medium, and dark roasts, as well as specialized options for decaf and robusta beans.
+
+---
+
+### Recommendations for Use
+
+1. **Beginner Tips**
+    
+    - Start with the default profiles to familiarize yourself with the machine.
+    - Utilize the boost kit if experimenting with different batch sizes.
+2. **For Professionals**
+    
+    - Leverage the software to customize profiles to your taste.
+    - Use the machine for sample roasting, as it supports back-to-back roasting sessions with minimal cooldown.
+3. **Maintenance**
+    
+    - After each roast, empty the chaff collector to maintain efficiency and cleanliness.
+    - Regularly check the roasting chamber for optimal airflow and performance.
+
+---
+
+### Conclusion
+
+The Kaffelogic Nano 7e is a game-changer in the world of coffee roasting. Whether you are an aspiring barista or a seasoned coffee professional, its ease of use, precision, and versatility make it an indispensable tool. With this machine, you can explore the art of coffee roasting and create your perfect cup with confidence.
+
+Enjoy the journey of crafting coffee your way!

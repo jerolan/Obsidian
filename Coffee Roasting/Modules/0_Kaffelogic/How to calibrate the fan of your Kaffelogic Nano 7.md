@@ -1,36 +1,72 @@
-![[Coffee Roasting/Resources/Screen Recording 2024-12-28 at 2.12.01 p.m..mov]]
-## Summary
+### Introduction
 
-The Kaffelogic Nano 7 is a precise coffee roaster that requires accurate fan calibration to maintain consistent performance. Proper airflow ensures even roasting and prevents issues like scorching or uneven development. This guide outlines the process of calibrating the fan, especially when transitioning to a new chaff collector or adapting to environmental conditions.
-
----
-
-## Key Points
-
-- **Importance of Calibration**: Inconsistent roasts and issues like scorching are often related to fan calibration.
-- **Firmware Updates**: Always ensure the roaster is running the latest firmware to improve functionality and safety.
-- **Chaff Collector Changes**: Machines upgraded from the old plastic chaff collector to the new glass version may require calibration.
-- **Calibration Process**:
-    1. Enter calibration mode by holding the **plus (+)** and **minus (-)** buttons while switching on the machine.
-    2. Adjust the "Fan at 40,700 RPM" setting, increasing the value by six steps.
-    3. Save the changes and test using 120 grams of standard green coffee beans.
-- **Advanced Testing**: Use the "Fan at 14,700 RPM" option for fine-tuning airflow if necessary.
+The Kaffelogic Nano 7 roaster is a highly precise and efficient coffee roaster designed for consistent roasting quality. Proper fan calibration is essential for maintaining optimal performance and ensuring even roasting. This guide outlines the calibration process, including troubleshooting and key considerations.
 
 ---
 
-## Reflections
+### Why Fan Calibration Matters
 
-The Kaffelogic Nano 7’s ability to produce consistent roasts depends heavily on accurate fan calibration. Users transitioning between components or experimenting with new profiles may notice inconsistencies, which can be resolved with simple adjustments. This adaptability underscores the roaster's user-friendly design while empowering enthusiasts to refine their craft.
-
----
-
-## Resources
-
-1. **Firmware Updates**: Visit the Kaffelogic website or use Kaffelogic Studio software for the latest firmware.
-2. **User Manual**: Refer to the official manual for detailed instructions on entering calibration mode and troubleshooting.
-3. **Community Forums**: Engage with other Kaffelogic users to share calibration tips and profiles.
-4. **Video Tutorials**: Watch Kaffelogic’s instructional videos for visual guidance.
+- **Airflow Impact**: Inconsistent airflow can lead to issues like scorching or uneven roasting.
+- **Transition to New Components**: Switching from an old chaff collector to a newer glass chaff collector may require recalibration.
+- **Environmental Factors**: Altitude and room conditions can also influence airflow and calibration needs.
 
 ---
 
-These sections ensure a complete understanding of fan calibration, allowing users to maintain and optimize their Kaffelogic Nano 7 for exceptional coffee roasting.
+### Preparing for Calibration
+
+1. **Firmware Update**  
+    Ensure your roaster runs the latest firmware:
+    
+    - For USB-connected devices, update through Kaffelogic Studio.
+    - For older models, use the USB stick to load the latest firmware onto the roaster.
+2. **Check Equipment**
+    
+    - Use 120 grams of average green coffee beans (avoid extreme varieties like Monsoon Malabar or very small beans).
+
+---
+
+### Fan Calibration Process
+
+#### Step 1: Enter Calibration Mode
+
+1. Hold the **plus (+)** and **minus (-)** buttons while switching on the roaster.
+2. Access the calibration menu.
+
+#### Step 2: Adjust the Fan
+
+1. Navigate to the "Fan at 40,700 RPM" option using the **menu button**.
+2. Adjust the fan speed by pressing the **plus (+)** button six times.
+3. Save the setting by pressing the **middle button** twice.
+
+#### Step 3: Test Calibration
+
+1. Load 120 grams of green coffee beans.
+2. Select the "K Logic Classic" profile.
+3. Observe bean circulation through the glass chaff collector:
+    - Beans in the center should move gently and evenly.
+![[Screen Recording 2024-12-28 at 2.12.01 p.m..mov]]
+---
+
+### Advanced Calibration (Optional)
+
+If basic calibration doesn’t resolve issues:
+
+1. Use the "Fan at 14,700 RPM" option for fine-tuning.
+2. Adjust fan speed using the **plus (+)** and **minus (-)** buttons until beans circulate evenly.
+3. Save the new setting and test again.
+
+---
+
+### Key Considerations
+
+- **Component Compatibility**: Ensure the collector matches your machine’s airflow needs.
+- **Environmental Adjustments**: Calibrate as needed for altitude or room conditions.
+- **Documentation**: Record the original and new settings for reference.
+
+---
+
+### Conclusion
+
+Fan calibration is a straightforward but critical process to ensure the Kaffelogic Nano 7 delivers consistent and high-quality roasts. Regularly updating the firmware and monitoring airflow will keep your machine performing at its best.
+
+Happy roasting!
