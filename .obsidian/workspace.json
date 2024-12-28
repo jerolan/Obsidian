@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "01d82ac3cb9977a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b88f56fd9c84fd9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c8910ba2b1e243",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a38c4493c3fd5b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25db83379c07d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9065dcad92b6feb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df1eadbf19ed0a1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "275a266d8af4721f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41fd57239eab0d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "460446d7c802484a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f09873100daf5fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "562276dea591d5d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1aecdee475a46c2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "414d3c4c835d5c12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c75640f355b267c3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 491.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e6c8910ba2b1e243",
+  "lastOpenFiles": [
+    "Coffee Roasting/Foundations on Coffee Roasting/Diagram.md",
+    "Pasted image 20241228143517.png",
+    "Pasted image 20241228143514.png",
+    "Coffee Roasting/Foundations on Coffee Roasting/1 - Why We Roast Coffee Beans.md",
+    "Excalidraw/Drawing 2024-12-28 14.34.48.excalidraw.md",
+    "Excalidraw",
+    "Coffee Roasting/Foundations on Coffee Roasting/2 - Overview of Green Coffee Chemistry.md",
+    "Coffee Roasting/Foundations on Coffee Roasting/3 - Basic Physical and Chemical Changes During Roasting.md",
+    "Untitled Kanban.md",
+    "Self-Learning Framework Handbook.md",
+    "Self-Learning Framework.md",
+    "Coffee Roasting/Kaffelogic/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
+    "Coffee Roasting/Kaffelogic/KAFFELOGIC First Time Setup.md",
+    "Coffee Roasting/Kaffelogic/How to calibrate the fan of your Kaffelogic Nano 7.md",
+    "Coffee Roasting/Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+    "Coffee Roasting/Kaffelogic",
+    "Coffee Roasting/Master Goal Note.md",
+    "Coffee Roasting/Roadmap.md",
+    "Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
+    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Updates Live Roast Logging, DTR Mode, and More.md",
+    "Coffee Roasting/Kaffelogic/Summaries/How to calibrate the fan of your Kaffelogic Nano 7.md",
+    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Nano 7 - Champion's Choice for Coffee Roasting.md",
+    "Coffee Roasting/Kaffelogic/Summaries/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
+    "Coffee Roasting/Kaffelogic/Summaries/KAFFELOGIC First Time Setup.md",
+    "node_modules/@bufbuild/protobuf/dist",
+    "node_modules/rxjs/src/fetch",
+    "node_modules/rollup/dist/es",
+    "node_modules/undici/lib/interceptor",
+    "node_modules/rxjs/src/testing",
+    "node_modules/undici/lib/llhttp",
+    "node_modules/rxjs/src/internal",
+    "node_modules/caniuse-lite/README.md",
+    "node_modules/prismjs/README.md",
+    "node_modules/prismjs/CHANGELOG.md",
+    "node_modules/vite/node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/undici/README.md",
+    "node_modules/@vuepress/plugin-back-to-top/lib/client/styles/back-to-top.svg",
+    "vuepress-starter/node_modules/@vuepress/plugin-back-to-top/lib/client/styles/back-to-top.svg",
+    "Untitled.canvas"
+  ]
+}

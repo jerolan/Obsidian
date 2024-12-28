@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "a172462b5225d60a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84729269a67cd0b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559335b8044eefeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coffee Roasting/Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6fdd8158908765d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "26546cacbf5a072b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "79f482bafd1c54ac",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f9a28beb82b89a70",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "964987eca8fc3ae4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ce9e5d525521838f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0cf1da4d04a4bc6d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Coffee Roasting/Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b94847a27faa48f5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Coffee Roasting/Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6def81c0b41b5c99",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Coffee Roasting/Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "559335b8044eefeb",
+  "lastOpenFiles": [
+    "hi.md",
+    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Nano 7 - Champion's Choice for Coffee Roasting.md",
+    "Coffee Roasting/Kaffelogic/Summaries/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+    "Self-Learning Framework.md",
+    "Coffee Roasting/Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+    "Coffee Roasting/Kaffelogic",
+    "Coffee Roasting/Resources",
+    "Coffee Roasting",
+    "Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
+    "Coffee Roasting/Experiments",
+    "Coffee Roasting/Kaffelogic/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
+    "Coffee Roasting/Roadmap.md",
+    "Coffee Roasting/Resources/toaz.info-the-coffe-roasters-companion-pr_14d0a5b92b3c35aba1078498a45b672d.pdf",
+    "Self-Learning Framework Handbook.md",
+    "Pasted image 20241228143517.png",
+    "Coffee Roasting/Master Goal Note.md",
+    "Excalidraw",
+    "Coffee Roasting/Resources/Kaffelogic Nano 7 Instructions 20 Dec 2022.pdf",
+    "Coffee Roasting/Kaffelogic/KAFFELOGIC First Time Setup.md",
+    "Coffee Roasting/Kaffelogic/How to calibrate the fan of your Kaffelogic Nano 7.md",
+    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
+    "Coffee Roasting/Kaffelogic/Summaries/KAFFELOGIC First Time Setup.md",
+    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Updates Live Roast Logging, DTR Mode, and More.md",
+    "Coffee Roasting/Kaffelogic/Summaries/How to calibrate the fan of your Kaffelogic Nano 7.md",
+    "Coffee Roasting/Kaffelogic/Summaries",
+    "Coffee Roasting/Foundations on Coffee Roasting/3 - Basic Physical and Chemical Changes During Roasting.md",
+    "Coffee Roasting/Foundations on Coffee Roasting/Diagram.md",
+    "Coffee Roasting/Foundations on Coffee Roasting/2 - Overview of Green Coffee Chemistry.md",
+    "Coffee Roasting/Foundations on Coffee Roasting/1 - Why We Roast Coffee Beans.md",
+    "Coffee Roasting/Foundations on Coffee Roasting"
+  ]
+}
