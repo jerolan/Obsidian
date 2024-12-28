@@ -6,5 +6,6 @@
   "templater-obsidian",
   "obsidian-mind-map",
   "quickadd",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]

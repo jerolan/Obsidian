@@ -11,10 +11,10 @@
             "id": "e6c8910ba2b1e243",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -146,9 +146,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "78de31e459447bde",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,43 +176,44 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e6c8910ba2b1e243",
   "lastOpenFiles": [
-    "Coffee Roasting/Foundations on Coffee Roasting/Diagram.md",
+    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/Diagram.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/How to calibrate the fan of your Kaffelogic Nano 7.md",
+    "Coffee Roasting/Modules",
+    "Coffee Roasting/Modules/0_Kaffelogic/KAFFELOGIC First Time Setup.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+    "Coffee Roasting/Resources/Kaffelogic Nano 7 Instructions 20 Dec 2022.pdf",
+    "Coffee Roasting/Resources/Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
+    "Coffee Roasting/Resources/toaz.info-the-coffe-roasters-companion-pr_14d0a5b92b3c35aba1078498a45b672d.pdf",
+    "Coffee Roasting/Master Goal Note.md",
+    "Coffee Roasting/Roadmap.md",
     "Pasted image 20241228143517.png",
+    "Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
     "Pasted image 20241228143514.png",
-    "Coffee Roasting/Foundations on Coffee Roasting/1 - Why We Roast Coffee Beans.md",
+    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/1_Why We Roast Coffee Beans.md",
     "Excalidraw/Drawing 2024-12-28 14.34.48.excalidraw.md",
     "Excalidraw",
-    "Coffee Roasting/Foundations on Coffee Roasting/2 - Overview of Green Coffee Chemistry.md",
-    "Coffee Roasting/Foundations on Coffee Roasting/3 - Basic Physical and Chemical Changes During Roasting.md",
+    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/2_Overview of Green Coffee Chemistry.md",
+    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/3_Basic Physical and Chemical Changes During Roasting.md",
     "Untitled Kanban.md",
     "Self-Learning Framework Handbook.md",
     "Self-Learning Framework.md",
-    "Coffee Roasting/Kaffelogic/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
-    "Coffee Roasting/Kaffelogic/KAFFELOGIC First Time Setup.md",
-    "Coffee Roasting/Kaffelogic/How to calibrate the fan of your Kaffelogic Nano 7.md",
-    "Coffee Roasting/Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
-    "Coffee Roasting/Kaffelogic",
-    "Coffee Roasting/Master Goal Note.md",
-    "Coffee Roasting/Roadmap.md",
-    "Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
-    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Updates Live Roast Logging, DTR Mode, and More.md",
-    "Coffee Roasting/Kaffelogic/Summaries/How to calibrate the fan of your Kaffelogic Nano 7.md",
-    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Nano 7 - Champion's Choice for Coffee Roasting.md",
-    "Coffee Roasting/Kaffelogic/Summaries/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
-    "Coffee Roasting/Kaffelogic/Summaries/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
-    "Coffee Roasting/Kaffelogic/Summaries/KAFFELOGIC First Time Setup.md",
+    "Coffee Roasting/Modules/0_Kaffelogic",
+    "Coffee Roasting/Modules/0_Kaffelogic/Summaries/Kaffelogic Updates Live Roast Logging, DTR Mode, and More.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/Summaries/How to calibrate the fan of your Kaffelogic Nano 7.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/Summaries/Kaffelogic Nano 7 - Champion's Choice for Coffee Roasting.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/Summaries/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/Summaries/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/Summaries/KAFFELOGIC First Time Setup.md",
     "node_modules/@bufbuild/protobuf/dist",
     "node_modules/rxjs/src/fetch",
     "node_modules/rollup/dist/es",
-    "node_modules/undici/lib/interceptor",
-    "node_modules/rxjs/src/testing",
-    "node_modules/undici/lib/llhttp",
-    "node_modules/rxjs/src/internal",
     "node_modules/caniuse-lite/README.md",
     "node_modules/prismjs/README.md",
     "node_modules/prismjs/CHANGELOG.md",
