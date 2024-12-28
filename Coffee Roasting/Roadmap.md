@@ -13,11 +13,11 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Foundations of Coffee Roasting
 
 
 ## Done
 
+- [ ] Foundations of Coffee Roasting
 
 
 
