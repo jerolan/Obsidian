@@ -14,9 +14,9 @@ To master the art and science of coffee roasting by understanding its principles
 #### **Module 1: Foundations of Coffee Roasting**
 
 - **Topics**:
-    - Why we roast coffee beans.
-    - Basic physical and chemical changes during roasting.
-    - Overview of green coffee chemistry.
+    - [[1_Why We Roast Coffee Beans]]
+    - [[2_Basic Physical and Chemical Changes During Roasting]]
+    - [[3_Overview of Green Coffee Chemistry]]
 - **Key Takeaways**:
     - Understand the purpose of roasting: flavor optimization and chemical transformation.
     - Recognize the stages of roasting (color change, moisture loss, structural expansion).
