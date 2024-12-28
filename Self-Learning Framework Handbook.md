@@ -31,6 +31,9 @@ GPT: https://chatgpt.com/g/g-67704e2fd324819194d1d1b68af08620-lafw-master-notes-
 
 ## **Phase 2: Curate and Collect Resources**
 
+GPT
+- https://chatgpt.com/g/g-GvcYCKPIH-video-summarizer
+- https://chatgpt.com/g/g-uefFoRnpX-summarizer-pdf-book-article-web-text-code-image
 
 ### Step 1: Gather Resources
 
