@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coffee Roasting/Modules/0_Kaffelogic/How to calibrate the fan of your Kaffelogic Nano 7.md",
+                "file": "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/1_Why We Roast Coffee Beans.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1_Why We Roast Coffee Beans"
+            }
+          },
+          {
+            "id": "dbac46cf90b863e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coffee Roasting/Modules/0_Kaffelogic/1_KAFFELOGIC First Time Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to calibrate the fan of your Kaffelogic Nano 7"
+              "title": "1_KAFFELOGIC First Time Setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,28 +199,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37dc5d7ed1d2b4b0",
+  "active": "dbac46cf90b863e1",
   "lastOpenFiles": [
+    "Clippings/Directly Responsible Individuals The What, How and Why of DRIs - Tettra.md",
+    "Clippings/Packages as layers, not groups.md",
+    "Clippings",
+    "Coffee Roasting/Master Goal Note.md",
+    "Coffee Roasting/Modules/0_Kaffelogic/1_KAFFELOGIC First Time Setup.md",
+    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/1_Why We Roast Coffee Beans.md",
+    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/Diagram.md",
+    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/Drawing 2024-12-28 17.13.22.excalidraw.md",
+    "Coffee Roasting/Resources/toaz.info-the-coffe-roasters-companion-pr_14d0a5b92b3c35aba1078498a45b672d.pdf",
+    "Coffee Roasting/Resources/Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
+    "Coffee Roasting/Resources/Pasted image 20241228170059.png",
+    "Coffee Roasting/Resources/Kaffelogic Nano 7 Instructions 20 Dec 2022.pdf",
+    "Coffee Roasting/Modules/0_Kaffelogic/How to calibrate the fan of your Kaffelogic Nano 7.md",
     "Coffee Roasting/Modules/0_Kaffelogic/Roasting Coffee with the Kaffelogic Nano 7e A Simple Guide.md",
     "Coffee Roasting/Modules/0_Kaffelogic/Kaffelogic Updates Live Roast Logging, DTR Mode, and More.md",
     "Coffee Roasting/Modules/0_Kaffelogic/Kaffelogic Nano 7e Coffee Roaster - Features, Functions, and Recommendations.md",
     "Coffee Roasting/Modules/0_Kaffelogic/Kaffelogic Nano 7 - Champion's Choice for Coffee Roasting.md",
-    "Coffee Roasting/Modules/0_Kaffelogic/1_KAFFELOGIC First Time Setup.md",
-    "Coffee Roasting/Modules/0_Kaffelogic/How to calibrate the fan of your Kaffelogic Nano 7.md",
-    "Coffee Roasting/Master Goal Note.md",
     "Self-Learning Framework.md",
-    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/1_Why We Roast Coffee Beans.md",
     "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/3_Overview of Green Coffee Chemistry.md",
     "Coffee Roasting/Modules/Index.md",
     "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/2_Basic Physical and Chemical Changes During Roasting.md",
-    "Coffee Roasting/Modules/1_Foundations on Coffee Roasting/Diagram.md",
     "Coffee Roasting/Roadmap.md",
     "Self-Learning Framework Handbook.md",
-    "Coffee Roasting/Resources/Pasted image 20241228170059.png",
     "Coffee Roasting/Modules",
-    "Coffee Roasting/Resources/Kaffelogic Nano 7 Instructions 20 Dec 2022.pdf",
-    "Coffee Roasting/Resources/Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
-    "Coffee Roasting/Resources/toaz.info-the-coffe-roasters-companion-pr_14d0a5b92b3c35aba1078498a45b672d.pdf",
     "Pasted image 20241228143517.png",
     "Screen Recording 2024-12-28 at 2.12.01 p.m..mov",
     "Pasted image 20241228143514.png",
@@ -215,7 +234,6 @@
     "Coffee Roasting/Modules/0_Kaffelogic",
     "node_modules/@bufbuild/protobuf/dist",
     "node_modules/rxjs/src/fetch",
-    "node_modules/rollup/dist/es",
     "node_modules/caniuse-lite/README.md",
     "node_modules/prismjs/README.md",
     "node_modules/prismjs/CHANGELOG.md",
