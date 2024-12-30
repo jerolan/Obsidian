@@ -6,13 +6,13 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Roast Profiles and Development
 - [ ] Heat Transfer and Equipment
 - [ ] Sensory Analysis and Quality Control
 
 
 ## In Progress
 
+- [ ] Roast Profiles and Development
 
 
 ## Done
