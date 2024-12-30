@@ -1,3 +1,12 @@
+---
+title: "Kaffelogic Nano 7e: Comprehensive Roasting Guide"
+tags: [kaffelogic, coffee_roasting, nano_7e, roasting_guide, coffee_enthusiasts]
+categories: [manual, user_guide]
+module: Kaffelogic
+description: "A detailed guide to using the Kaffelogic Nano 7e coffee roaster, featuring step-by-step instructions, advanced features, and tips for achieving consistent, high-quality roasts."
+source: https://www.youtube.com/watch?v=DOIHhFkClk0
+---
+
 ### Introduction
 
 The Kaffelogic Nano 7e is an advanced coffee roaster designed for both beginners and experienced enthusiasts. It combines simplicity with precision, offering pre-loaded profiles and customization options. This article provides a comprehensive guide to using the Nano 7e for roasting coffee and highlights its key features.

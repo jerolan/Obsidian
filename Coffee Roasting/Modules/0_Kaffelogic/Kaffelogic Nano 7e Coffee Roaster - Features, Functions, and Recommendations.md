@@ -1,3 +1,12 @@
+---
+title: "Kaffelogic Nano 7e: Features and Recommendations"
+tags: [kaffelogic, coffee_roasting, nano_7e, home_roasting, coffee_guide]
+categories: [manual, product_review]
+module: Kaffelogic
+description: "An in-depth guide to the Kaffelogic Nano 7e coffee roaster, highlighting its features, functionalities, and expert tips for maximizing its potential."
+source: https://www.youtube.com/watch?v=rfYr5RjZigA
+---
+
 ### Introduction
 
 The Kaffelogic Nano 7e is a revolutionary coffee roaster designed for both enthusiasts and professionals. Combining compact design with advanced features, it enables anyone to achieve consistent, high-quality roasts effortlessly. This article explores the key features, functionalities, and recommendations for getting the most out of this versatile machine.
@@ -36,10 +45,10 @@ The Kaffelogic Nano 7e is a revolutionary coffee roaster designed for both enthu
 #### Simple User Interface
 
 - Five control buttons and a display screen handle all operations:
-    - **Profile Button**: Select roasting profiles.
-    - **Increase/Decrease Buttons**: Adjust roast degree or development time.
-    - **Start Button**: Initiates the roasting process.
-    - **Menu Button**: Access advanced settings.
+  - **Profile Button**: Select roasting profiles.
+  - **Increase/Decrease Buttons**: Adjust roast degree or development time.
+  - **Start Button**: Initiates the roasting process.
+  - **Menu Button**: Access advanced settings.
 
 #### Advanced Temperature Control
 
@@ -54,17 +63,19 @@ The Kaffelogic Nano 7e is a revolutionary coffee roaster designed for both enthu
 ### Recommendations for Use
 
 1. **Beginner Tips**
-    
-    - Start with the default profiles to familiarize yourself with the machine.
-    - Utilize the boost kit if experimenting with different batch sizes.
+
+   - Start with the default profiles to familiarize yourself with the machine.
+   - Utilize the boost kit if experimenting with different batch sizes.
+
 2. **For Professionals**
-    
-    - Leverage the software to customize profiles to your taste.
-    - Use the machine for sample roasting, as it supports back-to-back roasting sessions with minimal cooldown.
+
+   - Leverage the software to customize profiles to your taste.
+   - Use the machine for sample roasting, as it supports back-to-back roasting sessions with minimal cooldown.
+
 3. **Maintenance**
-    
-    - After each roast, empty the chaff collector to maintain efficiency and cleanliness.
-    - Regularly check the roasting chamber for optimal airflow and performance.
+
+   - After each roast, empty the chaff collector to maintain efficiency and cleanliness.
+   - Regularly check the roasting chamber for optimal airflow and performance.
 
 ---
 

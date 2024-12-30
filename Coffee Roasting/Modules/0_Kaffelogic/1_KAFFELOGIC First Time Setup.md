@@ -1,3 +1,12 @@
+---
+title: "KAFFELOGIC Roaster User Guide"
+tags: [coffee_roasting, home_appliances, user_guide, kaffeelogic, roasting_tips]
+categories: [manual, guide]
+module: Kaffelogic
+description: "Comprehensive guide to setting up and using the KAFFELOGIC coffee roaster, including components, functions, steps for roasting, and maintenance tips."
+source: https://www.youtube.com/watch?v=A_YDzmG6yjE
+---
+
 ### Introduction
 
 KAFFELOGIC offers a unique coffee roasting experience by allowing users to roast their coffee beans at home. This guide walks you through the initial setup and operation of the KAFFELOGIC roaster, ensuring you get the best results.
@@ -44,5 +53,3 @@ The front panel features a display screen and five essential buttons:
 The KAFFELOGIC roaster simplifies the coffee roasting process, making it accessible to everyone. With its intuitive design and detailed controls, you can enjoy freshly roasted coffee tailored to your preferences.
 
 Enjoy your coffee journey with KAFFELOGIC!
-
----

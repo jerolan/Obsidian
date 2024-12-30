@@ -1,3 +1,19 @@
+---
+title: "Erhan Dizbay: Journey Through Coffee Championships with Kaffelogic Nano"
+tags:
+  [
+    coffee_competitions,
+    barista_championships,
+    kaffelogic,
+    coffee_roasting,
+    specialty_coffee,
+  ]
+categories: [interview, story]
+module: Kaffelogic
+description: "An insightful interview with Erhan Dizbay, exploring his experiences in barista championships, his coffee selection strategy, and the role of the Kaffelogic Nano roaster in achieving excellence."
+soruce: https://www.youtube.com/watch?v=oQB0koUF2Ps
+---
+
 ### Introduction
 
 In a fascinating interview, specialty coffee trainer and barista competitor Erhan Dizbay shares his journey in coffee championships and his experiences with the Kaffelogic Nano roaster. This article delves into the nuances of coffee competitions, the art of coffee selection, and how roasting plays a pivotal role in achieving excellence.

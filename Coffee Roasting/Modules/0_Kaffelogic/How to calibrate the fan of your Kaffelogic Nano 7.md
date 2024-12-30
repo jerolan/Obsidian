@@ -1,3 +1,13 @@
+---
+title: "Kaffelogic Nano 7 Fan Calibration Guide"
+tags:
+  [kaffelogic, fan_calibration, coffee_roasting, user_guide, troubleshooting]
+categories: [manual, guide]
+module: Kaffelogic
+description: "Step-by-step guide for calibrating the fan of the Kaffelogic Nano 7 coffee roaster, including preparation, process, advanced adjustments, and troubleshooting tips."
+source: https://www.youtube.com/watch?v=ZwKHdwqDcGI
+---
+
 ### Introduction
 
 The Kaffelogic Nano 7 roaster is a highly precise and efficient coffee roaster designed for consistent roasting quality. Proper fan calibration is essential for maintaining optimal performance and ensuring even roasting. This guide outlines the calibration process, including troubleshooting and key considerations.
@@ -15,13 +25,14 @@ The Kaffelogic Nano 7 roaster is a highly precise and efficient coffee roaster d
 ### Preparing for Calibration
 
 1. **Firmware Update**  
-    Ensure your roaster runs the latest firmware:
-    
-    - For USB-connected devices, update through Kaffelogic Studio.
-    - For older models, use the USB stick to load the latest firmware onto the roaster.
+   Ensure your roaster runs the latest firmware:
+
+   - For USB-connected devices, update through Kaffelogic Studio.
+   - For older models, use the USB stick to load the latest firmware onto the roaster.
+
 2. **Check Equipment**
-    
-    - Use 120 grams of average green coffee beans (avoid extreme varieties like Monsoon Malabar or very small beans).
+
+   - Use 120 grams of average green coffee beans (avoid extreme varieties like Monsoon Malabar or very small beans).
 
 ---
 
@@ -42,9 +53,9 @@ The Kaffelogic Nano 7 roaster is a highly precise and efficient coffee roaster d
 
 1. Load 120 grams of green coffee beans.
 2. Select the "K Logic Classic" profile.
-3. Observe bean circulation through the glass chaff collector:
-    - Beans in the center should move gently and evenly.
-![[Screen Recording 2024-12-28 at 2.12.01 p.m..mov]]
+3. Observe bean circulation through the glass chaff collector: - Beans in the center should move gently and evenly.
+   ![[Screen Recording 2024-12-28 at 2.12.01 p.m..mov]]
+
 ---
 
 ### Advanced Calibration (Optional)
