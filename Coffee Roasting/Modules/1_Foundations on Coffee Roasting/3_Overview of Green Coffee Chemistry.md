@@ -1,3 +1,15 @@
+---
+title: "Physical and Chemical Transformations in Coffee Roasting"
+tags:
+  - coffee_roasting
+  - physical_changes
+  - chemical_transformations
+  - brewing_science
+  - flavor_development
+module: "Foundations on Coffee Roasting"
+summary: "A comprehensive breakdown of the physical and chemical changes during coffee roasting, highlighting their role in developing flavor, aroma, texture, and solubility for an optimal brewing experience."
+---
+
 Green coffee beans, the raw seeds of the coffee plant, are chemically rich and serve as the foundation for the flavors, aromas, and textures that develop during roasting. Understanding the chemistry of green coffee is essential for predicting how different components react during roasting, influencing the final cup's quality.
 
 ---
@@ -6,12 +18,12 @@ Green coffee beans, the raw seeds of the coffee plant, are chemically rich and s
 
 - **Content**: Carbohydrates constitute about 50% of a green coffee bean’s dry weight, primarily in the form of polysaccharides like cellulose and small amounts of simple sugars like sucrose.
 - **Sucrose (6-9%)**:
-    - Key to sweetness and acidity in coffee.
-    - Breaks down during roasting through caramelization, producing acetic acid and enhancing fruity and caramel flavors.
-    - Heavily degraded in dark roasts (up to 99% lost) compared to light roasts (~87% degraded).
+  - Key to sweetness and acidity in coffee.
+  - Breaks down during roasting through caramelization, producing acetic acid and enhancing fruity and caramel flavors.
+  - Heavily degraded in dark roasts (up to 99% lost) compared to light roasts (~87% degraded).
 - **Polysaccharides (e.g., cellulose, hemicellulose)**:
-    - Provide structural integrity to the beans.
-    - Contribute minimally to flavor but play a role in retaining volatiles and influencing body.
+  - Provide structural integrity to the beans.
+  - Contribute minimally to flavor but play a role in retaining volatiles and influencing body.
 
 ---
 
@@ -19,10 +31,10 @@ Green coffee beans, the raw seeds of the coffee plant, are chemically rich and s
 
 - **Content**: Lipids make up ~16% of green coffee’s dry weight, primarily in the form of triglycerides.
 - **Role**:
-    - Lipids are not water-soluble but dissolve and trap volatile aroma compounds during roasting, significantly contributing to coffee's aroma retention.
-    - Affect the texture and mouthfeel, especially in unfiltered brewing methods like French press or espresso.
+  - Lipids are not water-soluble but dissolve and trap volatile aroma compounds during roasting, significantly contributing to coffee's aroma retention.
+  - Affect the texture and mouthfeel, especially in unfiltered brewing methods like French press or espresso.
 - **Challenges**:
-    - Lipids are prone to oxidation, leading to rancidity during prolonged storage, which can degrade flavor quality.
+  - Lipids are prone to oxidation, leading to rancidity during prolonged storage, which can degrade flavor quality.
 
 ---
 
@@ -30,35 +42,35 @@ Green coffee beans, the raw seeds of the coffee plant, are chemically rich and s
 
 - **Content**: Proteins and free amino acids account for 10-13% of the green bean's dry weight.
 - **Function**:
-    - Amino acids interact with reducing sugars during roasting in Maillard reactions, producing melanoidins and glycosylamines.
-    - These reactions are responsible for the roasted, meaty, and bittersweet flavors and the characteristic brown color of roasted coffee.
+  - Amino acids interact with reducing sugars during roasting in Maillard reactions, producing melanoidins and glycosylamines.
+  - These reactions are responsible for the roasted, meaty, and bittersweet flavors and the characteristic brown color of roasted coffee.
 
 ---
 
 ### **4. Alkaloids: Caffeine and Trigonelline**
 
 - **Caffeine (~1%)**:
-    - Contributes to coffee's bitterness and stimulating effects.
-    - Functions as a natural insect repellent for coffee plants.
-    - Stable during roasting; its concentration increases proportionally as beans lose moisture and weight.
+  - Contributes to coffee's bitterness and stimulating effects.
+  - Functions as a natural insect repellent for coffee plants.
+  - Stable during roasting; its concentration increases proportionally as beans lose moisture and weight.
 - **Trigonelline (~1%)**:
-    - Decomposes into aromatic compounds like pyridines and niacin (vitamin B3) during roasting.
-    - Responsible for coffee's bitterness and some aroma compounds.
+  - Decomposes into aromatic compounds like pyridines and niacin (vitamin B3) during roasting.
+  - Responsible for coffee's bitterness and some aroma compounds.
 
 ---
 
 ### **5. Acids: Brightness and Complexity**
 
 - **Organic Acids**:
-    - Comprise ~7-10% of green coffee’s dry weight.
-    - Chlorogenic acids (CGAs) are the most prevalent (6-8%) and play a significant role in coffee's acidity, bitterness, and antioxidant properties.
-    - Other acids include:
-        - Citric acid: Contributes to fruity sourness.
-        - Malic acid: Adds a clean, apple-like sourness.
-        - Acetic acid: Provides winey acidity but can be vinegary in excess.
-        - Phosphoric acid: Common in high-altitude coffees, adds a prized brightness.
+  - Comprise ~7-10% of green coffee’s dry weight.
+  - Chlorogenic acids (CGAs) are the most prevalent (6-8%) and play a significant role in coffee's acidity, bitterness, and antioxidant properties.
+  - Other acids include:
+    - Citric acid: Contributes to fruity sourness.
+    - Malic acid: Adds a clean, apple-like sourness.
+    - Acetic acid: Provides winey acidity but can be vinegary in excess.
+    - Phosphoric acid: Common in high-altitude coffees, adds a prized brightness.
 - **Acid Dynamics**:
-    - Acids degrade during roasting, with CGA decomposition yielding quinic and caffeic acids, adding complexity to flavor and body.
+  - Acids degrade during roasting, with CGA decomposition yielding quinic and caffeic acids, adding complexity to flavor and body.
 
 ---
 
@@ -66,20 +78,20 @@ Green coffee beans, the raw seeds of the coffee plant, are chemically rich and s
 
 - **Content**: Ideally, green beans have 10.5-12% moisture content.
 - **Role**:
-    - Water acts as a heat transfer medium during roasting, aiding in the even development of the bean.
-    - Proper moisture levels prevent scorching or underdevelopment.
+  - Water acts as a heat transfer medium during roasting, aiding in the even development of the bean.
+  - Proper moisture levels prevent scorching or underdevelopment.
 - **Challenges**:
-    - Excessive moisture (>12%) can cause mold and grassy flavors, while low moisture (<10%) can lead to fast roasting and faded flavors.
+  - Excessive moisture (>12%) can cause mold and grassy flavors, while low moisture (<10%) can lead to fast roasting and faded flavors.
 
 ---
 
 ### **7. Gases and Volatiles**
 
 - **Gases**:
-    - Green beans have negligible carbon dioxide, which increases significantly during roasting due to pyrolysis and caramelization.
+  - Green beans have negligible carbon dioxide, which increases significantly during roasting due to pyrolysis and caramelization.
 - **Volatile Compounds**:
-    - Green coffee contains over 200 volatile compounds, contributing little to aroma in its raw state.
-    - Roasting amplifies these, creating over 800 volatile aroma compounds.
+  - Green coffee contains over 200 volatile compounds, contributing little to aroma in its raw state.
+  - Roasting amplifies these, creating over 800 volatile aroma compounds.
 
 ---
 
@@ -92,18 +104,18 @@ Green coffee beans, the raw seeds of the coffee plant, are chemically rich and s
 ### **9. Antioxidants**
 
 - **Chlorogenic Acids (CGAs)**:
-    - Provide antioxidant properties and health benefits.
-    - Breakdown products like quinic acid during roasting contribute to coffee’s body and astringency.
+  - Provide antioxidant properties and health benefits.
+  - Breakdown products like quinic acid during roasting contribute to coffee’s body and astringency.
 
 ---
 
 ### **10. Variability in Composition**
 
 - **Species Differences**:
-    - Arabica beans have higher sucrose content and lower CGA levels, resulting in sweeter and more balanced coffee.
-    - Robusta beans contain more CGAs and caffeine, making them more bitter and less nuanced.
+  - Arabica beans have higher sucrose content and lower CGA levels, resulting in sweeter and more balanced coffee.
+  - Robusta beans contain more CGAs and caffeine, making them more bitter and less nuanced.
 - **Environmental Factors**:
-    - Altitude, climate, and soil conditions influence bean composition, affecting acidity, sugar content, and flavor potential.
+  - Altitude, climate, and soil conditions influence bean composition, affecting acidity, sugar content, and flavor potential.
 
 ---
 
