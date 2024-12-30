@@ -5,33 +5,35 @@
 ## **Phase 1: Define Your Learning Goals**
 
 GPT: https://chatgpt.com/g/g-67704e2fd324819194d1d1b68af08620-lafw-master-notes-creator
+
 ### Step 1: Identify the Scope
 
 - Ask yourself:
-    - What do I want to learn?
-    - Is it a broad domain (e.g., "Cloud Computing") or a specific skill (e.g., "AWS Lambda")?
+  - What do I want to learn?
+  - Is it a broad domain (e.g., "Cloud Computing") or a specific skill (e.g., "AWS Lambda")?
 - **Write it down** in a **Master Goal Note** in Obsidian.
 
 ### Step 2: Break Down the Topic
 
 - Divide the topic into **modules** or **subtopics**.
-    - Example for "Cloud Computing":
-        1. Basics of Cloud Computing.
-        2. AWS Services Overview.
-        3. Building Serverless Applications.
+  - Example for "Cloud Computing":
+    1. Basics of Cloud Computing.
+    2. AWS Services Overview.
+    3. Building Serverless Applications.
 - Create a **roadmap note** in Obsidian.
 
 ### Step 3: Define SMART Objectives
 
 - Set objectives for each module:
-    - Specific, Measurable, Achievable, Relevant, Time-bound.
-    - Example: "Learn AWS Lambda basics and deploy a sample Node.js app within 2 weeks."
+  - Specific, Measurable, Achievable, Relevant, Time-bound.
+  - Example: "Learn AWS Lambda basics and deploy a sample Node.js app within 2 weeks."
 
 ---
 
 ## **Phase 2: Curate and Collect Resources**
 
 GPT
+
 - https://chatgpt.com/g/g-GvcYCKPIH-video-summarizer
 - https://chatgpt.com/g/g-uefFoRnpX-summarizer-pdf-book-article-web-text-code-image
 
@@ -45,57 +47,61 @@ GPT
 ### Step 2: Organize in Obsidian
 
 1. Create a folder for the topic:
-    - E.g., `/Learning/CloudComputing/`.
+   - E.g., `/Learning/CloudComputing/`.
 2. Add subfolders for modules or resource types:
-    - `/Books/`, `/Articles/`, `/Courses/`.
+   - `/Books/`, `/Articles/`, `/Courses/`.
 3. Link resources in your **Master Goal Note** or **Module Notes**.
 
 ### Step 3: Use AI to Assist
 
 - Ask **ChatGPT** or **Ollama** to:
-    - Summarize articles.
-    - Recommend additional resources.
-    - Extract key points from books or papers.
+  - Summarize articles.
+  - Recommend additional resources.
+  - Extract key points from books or papers.
 
 **Tools**:
+
 - **Obsidian Web Clipper**: Save web pages into Obsidian.
 
 ---
 
 ## **Phase 3: Organize and Structure Knowledge**
 
+GPT: https://chatgpt.com/g/g-6771ec127d64819184f499b3c787f367-obsidian-metadata-assistant
+
 ### Step 1: Create Module Notes
 
 - For each module:
-    1. Create a **dedicated note**.
-    2. Add YAML front matter with metadata:
-        
-        ```yaml
-        ---
-        title: Basics of AWS Lambda
-        status: in-progress
-        tags: [AWS, Lambda, Serverless]
-        ---
-        ```
-        
-    3. Include sections:
-        - Summary.
-        - Key Points.
-        - Reflections.
-        - Resources.
+
+  1. Create a **dedicated note**.
+  2. Add YAML front matter with metadata:
+
+     ```yaml
+     ---
+     title: Basics of AWS Lambda
+     status: in-progress
+     tags: [#aws, #lambda, #serverless]
+     ---
+     ```
+
+  3. Include sections:
+     - Summary.
+     - Key Points.
+     - Reflections.
+     - Resources.
 
 ### Step 2: Link Related Notes
 
 - Use backlinks (`[[Note Title]]`) to connect:
-    - Modules to subtopics.
-    - Notes to related resources.
+  - Modules to subtopics.
+  - Notes to related resources.
 
 ### Step 3: Visualize Connections
 
 - Create **mind maps** or **flowcharts** to map relationships.
-    - **Tools**:
-        - **Excalidraw**: Draw diagrams directly in Obsidian.
-        - **Mermaid**: Use Markdown-like syntax for flowcharts.
+  - **Tools**:
+    - **Excalidraw**: Draw diagrams directly in Obsidian.
+    - **Mermaid**: Use Markdown-like syntax for flowcharts.
 
 ---
 
@@ -104,8 +110,8 @@ GPT
 ### Step 1: Use AI-Powered Q&A
 
 1. Ask GPT to:
-    - Clarify doubts.
-    - Generate examples or code snippets.
+   - Clarify doubts.
+   - Generate examples or code snippets.
 2. Use embedding-based search tools like **LangChain** to query your notes.
 
 ### Step 2: Create Flashcards
@@ -115,9 +121,9 @@ GPT
 ### Step 3: Work on Projects
 
 - Apply knowledge practically:
-    - Build apps or write essays.
-    - Analyze case studies.
-    - Conduct experiments.
+  - Build apps or write essays.
+  - Analyze case studies.
+  - Conduct experiments.
 
 ---
 
@@ -126,23 +132,23 @@ GPT
 ### Step 1: Maintain a Learning Journal
 
 - Use **Periodic Notes** to:
-    - Reflect daily/weekly.
-    - Document:
-        - What you’ve learned.
-        - Challenges faced.
-        - Next steps.
+  - Reflect daily/weekly.
+  - Document:
+    - What you’ve learned.
+    - Challenges faced.
+    - Next steps.
 
 ### Step 2: Self-Assess
 
 - Create a short quiz or mini-project for each module.
 - Use **GPT-4** to generate questions:
-    - Example: “Write a quiz about AWS Lambda functions.”
+  - Example: “Write a quiz about AWS Lambda functions.”
 
 ### Step 3: Adjust Your Plan
 
 - Based on your reflections, decide:
-    - Should I go deeper into this topic?
-    - Is there a related topic I need to explore next?
+  - Should I go deeper into this topic?
+  - Is there a related topic I need to explore next?
 
 ---
 
@@ -151,20 +157,20 @@ GPT
 ### Step 1: Define Completion Criteria
 
 - For each module:
-    - Example: “Successfully deploy a working Lambda function.”
+  - Example: “Successfully deploy a working Lambda function.”
 
 ### Step 2: Track Milestones
 
 - Use **Kanban Plugin**:
-    - Create boards:
-        - To Learn → In Progress → Completed.
+  - Create boards:
+    - To Learn → In Progress → Completed.
 - Use **Dataview** for dynamic dashboards.
 
 ### Step 3: Validate Knowledge
 
 - Share projects or essays with peers.
 - Ask AI for feedback:
-    - “Review my solution for deploying a Lambda function.”
+  - “Review my solution for deploying a Lambda function.”
 
 ---
 
@@ -187,14 +193,14 @@ GPT
 ### Step 1: Automate Routine Tasks
 
 - Use **Templater** to:
-    - Create standardized notes.
-    - Auto-summarize content with GPT.
+  - Create standardized notes.
+  - Auto-summarize content with GPT.
 
 ### Step 2: Use Embedding Databases
 
 - Implement **Faiss** or **LangChain** to:
-    - Store embeddings of notes.
-    - Enable semantic search and context-aware Q&A.
+  - Store embeddings of notes.
+  - Enable semantic search and context-aware Q&A.
 
 ---
 
@@ -216,21 +222,21 @@ GPT
 
 ### **Essential Plugins for Obsidian**
 
-|**Plugin**|**Purpose**|
-|---|---|
-|**Dataview**|Dynamic dashboards and views.|
-|**Templater**|Automate note creation and tasks.|
-|**Excalidraw**|Visual mind maps and flowcharts.|
-|**Kanban**|Track progress with boards.|
-|**Supercharged Spaced Repetition**|Create flashcards for active recall.|
+| **Plugin**                         | **Purpose**                          |
+| ---------------------------------- | ------------------------------------ |
+| **Dataview**                       | Dynamic dashboards and views.        |
+| **Templater**                      | Automate note creation and tasks.    |
+| **Excalidraw**                     | Visual mind maps and flowcharts.     |
+| **Kanban**                         | Track progress with boards.          |
+| **Supercharged Spaced Repetition** | Create flashcards for active recall. |
 
 ### **AI Tools**
 
-|**Tool**|**Purpose**|
-|---|---|
-|**ChatGPT/Ollama**|Q&A, summarization, and brainstorming.|
-|**Faiss**|Embedding storage for semantic search.|
-|**LangChain**|Build pipelines for advanced AI workflows.|
+| **Tool**           | **Purpose**                                |
+| ------------------ | ------------------------------------------ |
+| **ChatGPT/Ollama** | Q&A, summarization, and brainstorming.     |
+| **Faiss**          | Embedding storage for semantic search.     |
+| **LangChain**      | Build pipelines for advanced AI workflows. |
 
 ---
 
@@ -240,23 +246,23 @@ GPT
 
 - Goal: “Deploy a Node.js 20 Lambda function.”
 - Modules:
-    1. Basics of AWS Lambda.
-    2. Building a Function.
-    3. Monitoring and Debugging.
+  1. Basics of AWS Lambda.
+  2. Building a Function.
+  3. Monitoring and Debugging.
 
 ### **Phase 2**: Resources
 
 - Book: _Serverless Architectures on AWS_.
 - Articles:
-    - AWS Docs on Lambda.
-    - Blog: “Building Serverless Apps with Node.js.”
+  - AWS Docs on Lambda.
+  - Blog: “Building Serverless Apps with Node.js.”
 
 ### **Phase 3**: Structure
 
 - Create a folder: `/AWS Lambda`.
 - Add notes:
-    - `/Basics.md`
-    - `/BuildingFunction.md`
+  - `/Basics.md`
+  - `/BuildingFunction.md`
 
 ### **Phase 4**: Practice
 
@@ -266,14 +272,14 @@ GPT
 ### **Phase 5**: Reflection
 
 - Daily Journal:
-    - “Today, I learned how to create an IAM role for Lambda.”
+  - “Today, I learned how to create an IAM role for Lambda.”
 - Adjust:
-    - Spend more time on IAM policies.
+  - Spend more time on IAM policies.
 
 ### **Phase 6**: Validate
 
 - Completion Criteria:
-    - “Deploy Lambda, test an endpoint, and validate logs.”
+  - “Deploy Lambda, test an endpoint, and validate logs.”
 
 ---
 
